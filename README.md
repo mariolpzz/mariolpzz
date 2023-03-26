@@ -4,7 +4,7 @@
 - 🧠 Currently learning Javascript
 - ⚡ My [portfolio](https://mariolopez.website)
 
-<img src="[https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif](https://media0.giphy.com/media/SaSAUwiGPsPtswfPRk/giphy.gif?cid=ecf05e47tv1t9jq3tgybvg8wdx1hpm874pbd9p9i0unryajs&rid=giphy.gif&ct=s)" alt="Goku" width="300"/>
+<img src="https://media.giphy.com/media/SaSAUwiGPsPtswfPRk/giphy.gif" alt="Goku" width="300"/>
 
 
 
