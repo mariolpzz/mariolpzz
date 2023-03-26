@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🌍 I’m based in Madrid, Spain
+- 🔭 Working on my first Videogame
+- 🧠 Currently learning Javascript
+- ⚡ My [portfolio](https://mariolopez.website).
+
 
 <!--
 **mariolpzz/mariolpzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
