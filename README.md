@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 🌍 I’m based in Madrid, Spain
-- 🔭 Working on my first [Videogame]([https://mariolopez.website](https://cimaproductions.es).
+- 🔭 Working on my first [Videogame](https://cimaproductions.es)
 - 🧠 Currently learning Javascript
-- ⚡ My [portfolio](https://mariolopez.website).
+- ⚡ My [portfolio](https://mariolopez.website)
 
 
 <!--
