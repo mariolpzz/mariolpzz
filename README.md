@@ -4,7 +4,7 @@
 - 🧠 Currently learning Javascript
 - ⚡ My [portfolio](https://mariolopez.website)
 
-<img src="https://media.giphy.com/media/2OtpObuq1ZxUDXGwns/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/sNC71wDxPr0CgGB8zX/giphy.gif" width="300"/>
 
 
 
