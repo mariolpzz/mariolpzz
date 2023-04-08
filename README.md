@@ -4,4 +4,4 @@
 - 🧠 Currently learning Javascript
 - ⚡ My <a href="https://mariolopez.website" target="_blank">portfolio</a>
 
-<img src="https://media.giphy.com/media/V0UEJj238kF9Mc9Xsr/giphy.gif" width="200" />
+<img src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="200" />
