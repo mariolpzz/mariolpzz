@@ -18,5 +18,6 @@
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://dev.java/" target="_blank" rel="noreferrer"><img src="https://github.com/mariolpzz/mariolpzz/blob/main/java.png" width="36" height="36" alt="Java" /></a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a> 
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/mariolpzz/mariolpzz/blob/main/git.png" width="36" height="36" alt="Git" /></a> 
 </p>
 
