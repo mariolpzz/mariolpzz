@@ -21,3 +21,5 @@
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/mariolpzz/mariolpzz/blob/main/git.png" width="36" height="36" alt="Git" /></a> 
 </p>
 
+### Socials
+<a href="https://www.linkedin.com/in/mario-l%C3%B3pez-moraga-418956252/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
