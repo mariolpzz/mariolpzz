@@ -4,7 +4,7 @@
 - 🚀 Working on my first <a href="https://cimaproductions.es" target="_blank">videogame</a>
 - 🧠 Currently learning Javascript
 - 💻 See my <a href="https://mariolopez.website" target="_blank">portfolio</a>
-- ✉️  You can contact me at imariolpz@gmail.com
+- ✉️  You can contact me at [imariolpz@gmail.com](mailto:imariolpz@gmail.com)
 
 <img src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="200" />
 
