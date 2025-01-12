@@ -3,7 +3,7 @@
 - 🌍 I’m based in Madrid, Spain
 - 🚀 Working on my first <a href="https://cimaproductions.netlify.app" target="_blank">videogame</a>
 - 🧠 Currently learning Typescript
-- 💻 See my <a href="https://mariolpz.netlify.app" target="_blank">portfolio</a>
+<!--- 💻 See my <a href="https://mariolpz.netlify.app" target="_blank">portfolio</a> -->
 - ✉️  You can contact me at [imariolpz@gmail.com](mailto:imariolpz@gmail.com)
 
 <img src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="200" />
